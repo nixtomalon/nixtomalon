@@ -4,5 +4,5 @@
 
 - 🏢 Flutter developer, in Butuan City
 - 🧰 I build with: `Flutter`, `Dart`, `ReactJS`, `ExpressJS`, `JavaScript`, `C` ...
-- ⚡ I enjoy watching anime, playing games, and swimming :)
+- ⚡ I enjoy watching anime, playing games, swimming and playing pingpong:)
 - 📫 Reach out to me: nonixtomalon@gmail.com
