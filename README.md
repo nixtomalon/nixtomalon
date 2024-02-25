@@ -3,6 +3,6 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/norman-tomalon/)
 
 - 🏢 Flutter developer, in Butuan City
-- 🧰 I build with: `Flutter`, `Dart`, `ReactJS`, `ExpressJS`, `JavaScript`, `C` ...
+- 🧰 I build with: `Flutter`, `Dart`, `React.js`, `Express.js`, `JavaScript`, `C` ...
 - ⚡ I enjoy watching anime, playing games, swimming and playing pingpong:)
 - 📫 Reach out to me: nonixtomalon@gmail.com
